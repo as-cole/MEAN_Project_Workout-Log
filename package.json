@@ -1,0 +1,20 @@
+{
+  "name": "mean_project_w",
+  "version": "1.0.0",
+  "description": "Workout Log App - First Full Stack Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as-cole/MEAN_Project_Workout-Log.git"
+  },
+  "author": "Adam_C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/as-cole/MEAN_Project_Workout-Log/issues"
+  },
+  "homepage": "https://github.com/as-cole/MEAN_Project_Workout-Log#readme"
+}
